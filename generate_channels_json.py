@@ -16,7 +16,7 @@ def parse_m3u(playlist_text):
         line = lines[i].strip()
 
         if line.startswith("#EXTINF:"):
-            # Extract channel name
+            # Extract channel name (after last comma)
             name_match = re.search(r',(.+)$', line)
             name = name_match.group(1).strip() if name_match else "Unknown"
 
@@ -24,13 +24,10 @@ def parse_m3u(playlist_text):
             id_match = re.search(r'tvg-id="([^"]+)"', line)
             id_ = id_match.group(1) if id_match else re.sub(r'\W+', '', name.lower())
 
-            # Get stream URL from next line
-            if i + 1 < len(lines):
-                link = lines[i + 1].strip()
-            else:
-                link = ""
+            # Next line is stream URL
+            link = lines[i + 1].strip() if i + 1 < len(lines) else ""
 
-            # Construct logo URL (customize as needed)
+            # Logo URL template (customize if you want)
             logo = f"https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/Default/{id_}.png"
 
             channel = {
@@ -42,7 +39,7 @@ def parse_m3u(playlist_text):
                 "origin": ORIGIN
             }
             channels.append(channel)
-            i += 2  # Skip to line after URL
+            i += 2
         else:
             i += 1
 
