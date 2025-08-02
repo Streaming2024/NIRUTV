@@ -28,19 +28,20 @@ jobs:
       - name: 📦 Install dependencies
         run: pip install --upgrade pip requests
 
+      - name: 🔄 Run JSON generation script and check output
+        run: |
+          python generate_channels_json.py
+          echo "Listing files in repo root:"
+          ls -l
+          echo "Preview of channels.json:"
+          head -n 20 channels.json || echo "channels.json not found"
+
       - name: 🧠 Configure Git user
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
 
-      - name: 🔄 Run JSON generation script
-        run: |
-          python generate_channels_json.py
-
-      - name: 💤 Sleep random delay
-        run: sleep $((RANDOM % 10 + 5))
-
-      - name: 💾 Commit and push if changes
+      - name: 💾 Commit and push if channels.json changed
         run: |
           git add channels.json
           if git diff --cached --quiet; then
