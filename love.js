@@ -5,7 +5,7 @@ const streamMap = {
     poster: "#"
   },
   "willow": {
-    url: "https://rumble.com/live-hls-dvr/6x95p4/playlist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/ol95fwjc/slot-8/q078-bgzo/chunklist.m3u8",
     poster: "#"
   },
   "Fox2": {
