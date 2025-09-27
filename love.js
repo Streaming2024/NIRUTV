@@ -1,11 +1,11 @@
 // streams.js
 const streamMap = {
   "Fox": {
-    url: "https://hugh.cdn.rumble.cloud/live/ol95fwjc/slot-8/q078-bgzo/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/d5a20b4d/slot-106/3m7y-zxc5/chunklist.m3u8",
     poster: "#"
   },
   "willow": {
-    url: "https://hugh.cdn.rumble.cloud/live/ol95fwjc/slot-8/q078-bgzo/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/4gf18j5s/live-hls/j51s-nzxg/chunklist.m3u8",
     poster: "#"
   },
   "Fox2": {
