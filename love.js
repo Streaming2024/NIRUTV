@@ -26,7 +26,7 @@ const streamMap = {
   },
     "S2": {
     url: "https://hugh.cdn.rumble.cloud/live/r8wvl35k/slot-115/3mdj-dc92/chunklist.m3u8",
-    poster: ""
+    poster: "https://img.jagranjosh.com/images/2025/09/27/article/image/Untitled-design-(73)-1758966052512.webp"
   },
   "myco": {
     url: "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8",
