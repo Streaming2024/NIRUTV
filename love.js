@@ -6,7 +6,7 @@ const streamMap = {
   },
   "NP2": {
     url: "https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-83/t7p4-n07p/chunklist.m3u8",
-    poster: "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-vs-Nepal-in-UAE-old-match-card.png"
+    poster: "https://nirutv.online/logo/image.png"
   },
   "Fox2": {
     url: "https://hugh.cdn.rumble.cloud/live/d0t27del/slot-155/mmil-w7nl/chunklist.m3u8",
