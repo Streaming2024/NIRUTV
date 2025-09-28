@@ -30,7 +30,7 @@ const streamMap = {
   },
   "myco": {
     url: "https://ml-pull-dvc-myco.io:2096/MYCO_ASIA_CUP_PROMO/index.m3u8",
-    poster: ""
+    poster: "https://www.fancode.com/skillup-uploads/cms-media/INDvsPAK_AsiaCup_OldMatch_card.jpg"
   },
 
 };
