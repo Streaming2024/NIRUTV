@@ -17,7 +17,7 @@ const streamMap = {
     poster: ""
   },
   "WTV": {
-    url: "https://rumble.com/live-hls/6x2vag/playlist.m3u8",
+    url: "https://cdn.bdixtv24.com/SonyTen1HD/index.m3u8",
     poster: ""
   },
   "S1": {
