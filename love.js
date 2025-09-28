@@ -2,7 +2,7 @@
 const streamMap = {
   "NP": {
     url: "https://hugh.cdn.rumble.cloud/live/r31jzt5k/slot-141/d8g9-by2i/chunklist.m3u8",
-    poster: "https://en.himalpress.com/wp-content/uploads/2025/09/Unity-Cup.jpg"
+    poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
   },
   "NP2": {
     url: "https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-83/t7p4-n07p/chunklist.m3u8",
@@ -24,11 +24,11 @@ const streamMap = {
     url: "https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/xop9-bbmz/chunklist_DVR.m3u8",
     poster: "#"
   },
-    "S2": {
+    "ACC2": {
     url: "https://hugh.cdn.rumble.cloud/live/r8wvl35k/slot-115/3mdj-dc92/chunklist.m3u8",
     poster: "https://img.jagranjosh.com/images/2025/09/27/article/image/Untitled-design-(73)-1758966052512.webp"
   },
-  "myco": {
+  "ACC": {
     url: "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8",
     poster: "https://img.jagranjosh.com/images/2025/09/27/article/image/Untitled-design-(73)-1758966052512.webp"
   },
