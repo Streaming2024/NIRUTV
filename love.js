@@ -28,8 +28,8 @@ const streamMap = {
     url: "https://hugh.cdn.rumble.cloud/live/r8wvl35k/slot-115/3mdj-dc92/chunklist.m3u8",
     poster: ""
   },
-  "S5": {
-    url: "https://dai.google.com/linear/hls/event/inq9igrMQ32gRZqcAKG_3w/master.m3u8",
+  "myco": {
+    url: "https://ml-pull-dvc-myco.io:2096/MYCO_ASIA_CUP_PROMO/index.m3u8",
     poster: ""
   },
 
