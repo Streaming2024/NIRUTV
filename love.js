@@ -29,8 +29,8 @@ const streamMap = {
     poster: ""
   },
   "myco": {
-    url: "https://ml-pull-dvc-myco.io:2096/MYCO_ASIA_CUP_PROMO/index.m3u8",
-    poster: "https://www.fancode.com/skillup-uploads/cms-media/INDvsPAK_AsiaCup_OldMatch_card.jpg"
+    url: "https://live-en.aisports.cc/moviebox/device01/playlist.m3u8",
+    poster: "https://img.jagranjosh.com/images/2025/09/27/article/image/Untitled-design-(73)-1758966052512.webp"
   },
 
 };
