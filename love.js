@@ -4,11 +4,11 @@ const streamMap = {
     url: "https://webott.viatv.com.np/v0t1/KntCineplexTv.stream/playlist.m3u8",
     poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
   },
-  "NP2": {
+  "NP4": {
     url: "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
-  "NP3": {
+  "NP2": {
     url: "https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-59/2k7n-o4tv/chunklist.m3u8",
     poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
   },
