@@ -5,7 +5,7 @@ const streamMap = {
     poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
   },
   "NP2": {
-    url: "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
+    url: "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
   "Fox2": {
