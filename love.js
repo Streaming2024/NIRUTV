@@ -8,9 +8,9 @@ const streamMap = {
     url: "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
-  "Fox2": {
-    url: "https://hugh.cdn.rumble.cloud/live/d0t27del/slot-155/mmil-w7nl/chunklist.m3u8",
-    poster: "#"
+  "NP3": {
+    url: "https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-59/2k7n-o4tv/chunklist.m3u8",
+    poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
   },
   "NP3": {
     url: "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8 ",
