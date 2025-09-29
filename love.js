@@ -1,11 +1,11 @@
 // streams.js
 const streamMap = {
   "NP": {
-    url: "https://webott.viatv.com.np/v0t1/KntCineplexTv.stream/playlist.m3u8",
+    url: "https://webott.viatv.com.np/v0t1/KntCineplexTv.stream/playlist.m3u88",
     poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
   },
   "NP4": {
-    url: "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8",
+    url: "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u88",
     poster: "https://nirutv.online/logo/image.png"
   },
   "NP2": {
