@@ -1,11 +1,11 @@
 // streams.js
 const streamMap = {
   "NP": {
-    url: "https://hugh.cdn.rumble.cloud/live/r31jzt5k/slot-141/d8g9-by2i/chunklist.m3u8",
+    url: "https://webott.viatv.com.np/v0t1/KntCineplexTv.stream/playlist.m3u8",
     poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
   },
   "NP2": {
-    url: "https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-83/t7p4-n07p/chunklist.m3u8",
+    url: "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
   "Fox2": {
