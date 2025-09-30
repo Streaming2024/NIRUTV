@@ -16,9 +16,9 @@ const streamMap = {
     url: "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8 ",
     poster: ""
   },
-  "WTV": {
-    url: "https://cdn.bdixtv24.com/SonyTen1HD/index.m3u8",
-    poster: ""
+  "Hindi": {
+    url: "https://live.dinesh29.com.np/stream/jiotv/starsports2hindihd/master.m3u8",
+    poster: "https://nirutv.online/logo/image.png"
   },
   "S1": {
     url: "https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/xop9-bbmz/chunklist_DVR.m3u8",
