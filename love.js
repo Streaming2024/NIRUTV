@@ -12,6 +12,12 @@ const streamMap = {
     url: "https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-7/o5fp-f3en/chunklist.m3u8",
     poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
   },
+
+  "NP4": {
+    url: "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
+    poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
+  },
+  
   "NP3": {
     url: "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8 ",
     poster: ""
