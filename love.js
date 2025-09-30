@@ -16,8 +16,8 @@ const streamMap = {
     url: "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8 ",
     poster: ""
   },
-  "Hindi": {
-    url: "https://live.dinesh29.com.np/stream/jiotv/starsports2hindihd/master.m3u8",
+  "SKY": {
+    url: "https://hocdn.news/Sky_Sports_Cricket_Live_TV/mono.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
   "S1": {
