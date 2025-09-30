@@ -17,7 +17,7 @@ const streamMap = {
     poster: ""
   },
   "SKY": {
-    url: "https://hocdn.news/Sky_Sports_Cricket_Live_TV/mono.m3u8",
+    url: "https://cdn2.ml-pull-dvc-myco.io:2096/ICC-WWC-MATCH-1/index.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
   "S1": {
