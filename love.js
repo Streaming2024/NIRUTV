@@ -24,7 +24,7 @@ const streamMap = {
   },
   "Myco": {
     url: "https://cdn2.ml-pull-dvc-myco.io:2096/ICC-WWC-MATCH-3/index.m3u8",
-    poster: "https://nirutv.online/logo/image.png"
+    poster: "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.08f729d0-1798-41f2-8d17-f0196908d78b/1/HERO-16X9/en-US._UR1920,1080_SX1080_FMjpg_.jpeg"
   },
   "WOMENS": {
     url: "https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-53/494f-nmje/chunklist.m3u8",
