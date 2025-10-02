@@ -26,6 +26,11 @@ const streamMap = {
     url: "https://cdn2.ml-pull-dvc-myco.io:2096/ICC-WWC-MATCH-1/index.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
+  "WOMENS": {
+    url: "https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/xop9-bbmz/chunklist_DVR.m3u8",
+    poster: "https://styxsports.b-cdn.net/styxsports-public/matches/1759219336927-448368236.webp"
+  },
+
   "S1": {
     url: "https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/xop9-bbmz/chunklist_DVR.m3u8",
     poster: "#"
