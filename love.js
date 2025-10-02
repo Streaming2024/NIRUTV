@@ -27,7 +27,7 @@ const streamMap = {
     poster: "https://nirutv.online/logo/image.png"
   },
   "WOMENS": {
-    url: "https://hugh.cdn.rumble.cloud/live/v0xi25uh/slot-85/xop9-bbmz/chunklist_DVR.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-53/494f-nmje/chunklist.m3u8",
     poster: "https://styxsports.b-cdn.net/styxsports-public/matches/1759219336927-448368236.webp"
   },
 
@@ -36,7 +36,7 @@ const streamMap = {
     poster: "#"
   },
     "ACC2": {
-    url: "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-45/euz8-ycn3/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-53/494f-nmje/chunklist.m3u8",
     poster: "https://img.jagranjosh.com/images/2025/09/27/article/image/Untitled-design-(73)-1758966052512.webp"
   },
   "ACC": {
