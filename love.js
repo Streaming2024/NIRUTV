@@ -22,8 +22,8 @@ const streamMap = {
     url: "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8 ",
     poster: ""
   },
-  "SKY": {
-    url: "https://cdn2.ml-pull-dvc-myco.io:2096/ICC-WWC-MATCH-1/index.m3u8",
+  "Myco": {
+    url: "https://cdn2.ml-pull-dvc-myco.io:2096/ICC-WWC-MATCH-3/index.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
   "WOMENS": {
