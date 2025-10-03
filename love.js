@@ -23,7 +23,7 @@ const streamMap = {
     poster: ""
   },
   "Myco": {
-    url: "https://cdn2.ml-pull-dvc-myco.io:2096/ICC-WWC-MATCH-4/index.m3u8",
+    url: "https://cdn2.ml-pull-dvc-myco.io:2096/ICC-WWC-MATCH-3/index.m3u8",
     poster: "https://imgeng.jagran.com/images/2025/09/30/article/image/complete-list-of-ICC-women-cricket-world-cup-winners--1759237177116.webp"
   },
   "WOMENS": {
