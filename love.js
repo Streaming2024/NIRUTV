@@ -36,7 +36,7 @@ const streamMap = {
     poster: "#"
   },
     "ACC2": {
-    url: "https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-53/494f-nmje/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-99/tvgm-rzt1/chunklist.m3u8",
     poster: "https://img.jagranjosh.com/images/2025/09/27/article/image/Untitled-design-(73)-1758966052512.webp"
   },
   "ACC": {
