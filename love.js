@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "NP": {
-    url: "https://webott.viatv.com.np/v0t1/KntCineplexTv.stream/playlist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-83/sdp1-m9kl/chunklist.m3u8",
     poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
   },
   "NP2": {
@@ -27,7 +27,7 @@ const streamMap = {
     poster: "https://imgeng.jagran.com/images/2025/09/30/article/image/complete-list-of-ICC-women-cricket-world-cup-winners--1759237177116.webp"
   },
   "WOMENS": {
-    url: "https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-53/n2yd-k30l/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-83/sdp1-m9kl/chunklist.m3u8",
     poster: "https://styxsports.b-cdn.net/styxsports-public/matches/1759219336927-448368236.webp"
   },
 
