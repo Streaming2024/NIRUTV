@@ -13,9 +13,9 @@ const streamMap = {
     poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
   },
 
-  "NP4": {
-    url: "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8",
-    poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
+  "WC": {
+    url: "https://fl7.moveonjoy.com/WILLOW_CRICKET/tracks-v1a1/mono.ts.m3u8",
+    poster: "https://imgeng.jagran.com/images/2025/09/30/article/image/complete-list-of-ICC-women-cricket-world-cup-winners--1759237177116.webp"
   },
   
   "NP3": {
