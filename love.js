@@ -2,7 +2,7 @@
 const streamMap = {
   "NP": {
     url: "https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-83/sdp1-m9kl/chunklist.m3u8",
-    poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
+    poster: "https://i.imgur.com/1yR3MCy.jpeg"
   },
   "NP2": {
     url: "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8",
