@@ -2,11 +2,11 @@
 const streamMap = {
   "NP": {
     url: "https://hugh.cdn.rumble.cloud/live/1n1ugl24/slot-35/qnbn-q1qm/chunklist.m3u8",
-    poster: "https://i.imgur.com/1yR3MCy.jpeg"
+    poster: "https://i.postimg.cc/bvJK0HRQ/NEPAL-3.png"
   },
   "NP2": {
     url: "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8",
-    poster: "https://nirutv.online/logo/image.png"
+    poster: "https://i.postimg.cc/bvJK0HRQ/NEPAL-3.png"
   },
   "NP3": {
     url: "https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-7/o5fp-f3en/chunklist.m3u8",
