@@ -9,7 +9,12 @@ const streamMap = {
     poster: "https://i.postimg.cc/bvJK0HRQ/NEPAL-3.png"
   },
   "NP3": {
-    url: "https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-7/o5fp-f3en/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-49/4m4k-4qjy/chunklist.m3u8",
+    poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
+
+     },
+  "NP4": {
+    url: "https://rumble-foxo.cdn.rumble.cloud/live/v13wgnv6/slot-49/4m4k-4qjy_1080p/playlist.m3u8",
     poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
   },
 
@@ -18,8 +23,8 @@ const streamMap = {
     poster: "https://imgeng.jagran.com/images/2025/09/30/article/image/complete-list-of-ICC-women-cricket-world-cup-winners--1759237177116.webp"
   },
   
-  "NP3": {
-    url: "https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8 ",
+  "NP4": {
+    url: "",
     poster: ""
   },
   "Myco": {
