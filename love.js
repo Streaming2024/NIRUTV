@@ -12,10 +12,6 @@ const streamMap = {
     url: "https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-49/4m4k-4qjy/chunklist.m3u8",
     poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
 
-     },
-  "NP4": {
-    url: "https://rumble-foxo.cdn.rumble.cloud/live/v13wgnv6/slot-49/4m4k-4qjy_1080p/playlist.m3u8",
-    poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
   },
 
   "WC": {
@@ -41,7 +37,7 @@ const streamMap = {
     poster: "#"
   },
     "ACC2": {
-    url: "https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-99/tvgm-rzt1/chunklist.m3u8",
+    url: "https://rumble-foxo.cdn.rumble.cloud/live/v13wgnv6/slot-49/4m4k-4qjy/playlist.m3u8",
     poster: "https://img.jagranjosh.com/images/2025/09/27/article/image/Untitled-design-(73)-1758966052512.webp"
   },
   "ACC": {
