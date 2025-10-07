@@ -2,15 +2,15 @@
 const streamMap = {
   "NP": {
     url: "https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-29/d0hx-wxes/chunklist.m3u8",
-    poster: "https://i.postimg.cc/bvJK0HRQ/NEPAL-3.png"
+    poster: "https://yonotv.pages.dev/NEPvsKW.png"
   },
   "NP2": {
     url: "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8",
-    poster: "https://i.postimg.cc/bvJK0HRQ/NEPAL-3.png"
+    poster: "https://yonotv.pages.dev/NEPvsKW.png"
   },
   "NP3": {
     url: "https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-49/4m4k-4qjy/chunklist.m3u8",
-    poster: "https://media.sportstiger.com/media/who-will-win-nepvswi-1759051503609-large.webp"
+    poster: "https://yonotv.pages.dev/NEPvsKW.png"
 
   },
 
