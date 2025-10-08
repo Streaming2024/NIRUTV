@@ -9,7 +9,7 @@ const streamMap = {
     poster: "https://yonotv.pages.dev/NEPvsKW.png"
   },
   "ICC2": {
-    url: "https://rumble-foxo.cdn.rumble.cloud/live/t34ch9px/slot-79/yhjd-fwvx/playlist.m3u8",
+    url: "https://rumble-foxo.cdn.rumble.cloud/live/1n1ugl24/slot-1/4mmd-llxt/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
   
