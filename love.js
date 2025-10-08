@@ -1,11 +1,11 @@
 // streams.js
 const streamMap = {
   "NP": {
-    url: "https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-81/c3d1-75is/chunklist.m3u8",
+    url: "https://webott.viatv.com.np/v0t1/KntCineplexTv.stream/playlist.m3u8",
     poster: "https://yonotv.pages.dev/NEPvsKW.png"
   },
   "NP2": {
-    url: "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-81/c3d1-75is/chunklist.m3u8",
     poster: "https://yonotv.pages.dev/NEPvsKW.png"
   },
   "ICC2": {
