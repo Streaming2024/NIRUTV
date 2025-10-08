@@ -9,12 +9,12 @@ const streamMap = {
     poster: "https://yonotv.pages.dev/NEPvsKW.png"
   },
   "ICC2": {
-    url: "https://rumble-foxo.cdn.rumble.cloud/live/k5e12sb4/slot-91/daan-3di0/chunklist_DVR.m3u8",
+    url: "https://rumble-foxo.cdn.rumble.cloud/live/t34ch9px/slot-79/yhjd-fwvx/chunklist_DVR.m3u8",
     poster: "https://yonotv.pages.dev/NEPvsKW.png"
   },
   
   "ICC": {
-    url: "https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-91/daan-3di0/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-79/yhjd-fwvx/chunklist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   
   },
