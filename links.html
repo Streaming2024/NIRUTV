@@ -1,0 +1,81 @@
+<html lang="en">
+  <head> <!--Updates-->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script disable-devtool-auto src='https://cdn.jsdelivr.net/npm/disable-devtool'></script>
+    <title> Stream with ID </title>
+    <style>
+      body {
+        height: 100vh;
+        margin: 0;
+        padding: 0;
+        color: #fff;
+        text-align: center;
+        overflow: hidden;
+        font-family: Tahoma, sans-serif;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      #player {
+        width: 100%;
+        height: 100%;
+        border: none;
+      }
+
+      #text {
+        position: fixed;
+        bottom: 50px;
+        width: 100%;
+        font-size: 20px;
+        color: #fff;
+        text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+        z-index: 9999;
+      }
+    </style>
+  </head>
+  <body>
+    <iframe id="player" loading="lazy" allowfullscreen></iframe>
+    <script>
+      const channels = {
+
+
+        //Football Live Stream
+        // https://ytvlive.pages.dev/sc?id=____
+        // https://ytvlive.pages.dev/jwplayers?src=______
+
+        mancity: " https://yosintv.github.io/player/dmca.html?url=https://hls.suanzsd6.com/hd-en-6MuT7JwXjTFxGERgmV.m3u8?txSecret=3c1cd63c3934a1e50c9a994a1630af07&txTime=68D168A6 ", 
+        realmadrid: " https://ytvlive.pages.dev/sc?id=1 ", 
+        liverpool: "https://ytvlive.pages.dev/ak?m=135966 ", 
+        alnassr: "https://ytvlive.pages.dev/ak?m=135966 ", 
+
+
+        //Country Live Stream
+        germany: " https://tinyurl.com/28uy958a ", 
+        spain: " https://tinyurl.com/29cexnuf ", 
+        england: " https://tinyurl.com/2xk4k6ba ", 
+        portugal: " https://tinyurl.com/254n4osf ", 
+
+
+
+        //Cricket Live Stream
+        sports5: " https://hlsplayers.pages.dev/player3?url=https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8 ", 
+        nepal1: " https://hlsplayers.pages.dev/iframe?url=https://kasin-tv.com/hi/play.php?id=137176 ", 
+        nepal: " https://nirutv.online/Player/dplyrr?url=https://funn-g1163.huibo.tv/GPA/H912/chunks.m3u8?p=48&cf=1759935841&d=&ip=133.106.248.44&e=1769936441&h=8e7c77cc1b969e6e74691d448db069a0 ", 
+        
+        willow: " https://hlsplayers.pages.dev/player3?url=https://live-en.aisports.cc/moviebox/device01/playlist.m3u8 ", 
+        ten1: " http://glivestreaming.com/livetv/15/slivehub/slivehub/19285973/1758897539247-57a330-a413-13ad9-b88annie8-1352cbb/24b3635a9de8b49896b60f2e6ae3df64/126.69.212.105/1758897767?=&lang=en&017efd8d37e0ae3315be8052b76d9e20 ", 
+
+
+  
+      };
+      const urlParams = new URLSearchParams(window.location.search);
+      const channel = urlParams.get('id');
+
+      function setChannel(channel) {
+        const iframe = document.getElementById('player');
+        iframe.src = channels[channel] || channels.tnt1;
+      }
+      setChannel(channel);
+    </script>
+  </body>
+</html>
