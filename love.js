@@ -1,7 +1,7 @@
 // streams.js
 const streamMap = {
   "NP": {
-    url: "https://hugh.cdn.rumble.cloud/live/e6pv21nm/slot-29/d0hx-wxes/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-81/c3d1-75is/chunklist.m3u8",
     poster: "https://yonotv.pages.dev/NEPvsKW.png"
   },
   "NP2": {
