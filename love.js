@@ -4,12 +4,12 @@ const streamMap = {
     url: "https://webott.viatv.com.np/v0t1/KntCineplexTv.stream/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
-  "NP": {
+  "NP3": {
     url: "https://rumble-foxo.cdn.rumble.cloud/live/k5e12sb4/slot-5/8vx9-w6d8/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
-  "ICC2": {
-    url: "https://rumble-foxo.cdn.rumble.cloud/live/k5e12sb4/slot-5/8vx9-w6d8/playlist.m3u8",
+  "NP": {
+    url: "https://rumble-foxo.cdn.rumble.cloud/live/v13wgnv6/slot-31/6qoc-dufh/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
   
