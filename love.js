@@ -1,10 +1,10 @@
 // streams.js
 const streamMap = {
-  "NP": {
+  "NP2": {
     url: "https://webott.viatv.com.np/v0t1/KntCineplexTv.stream/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
-  "NP2": {
+  "NP": {
     url: "https://rumble-foxo.cdn.rumble.cloud/live/k5e12sb4/slot-5/8vx9-w6d8/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
