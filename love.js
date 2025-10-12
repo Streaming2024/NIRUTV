@@ -10,8 +10,8 @@ const streamMap = {
   },
   
   
-  "ICC": {
-    url: "https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-79/yhjd-fwvx/chunklist.m3u8",
+  "NP": {
+    url: "https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-3/duzt-d3yh/chunklist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
   "ICC2": {
