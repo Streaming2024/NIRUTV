@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, maximum-scale=1.0, user-scalable=no">
+  <meta name="author" content="LiveCricHd Embed">
+  <meta name="designer" content="LiveCricHd">
+  <meta name="description" content="Join Telegram Channel @livecrichdofficial">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>YoNoTV Player</title>
+  <link href="https://nirutv.online/logo/favicon.png" rel="icon" type="image/x-icon"/>
+  <link rel="stylesheet" href="https://cdn.plyr.io/3.6.2/plyr.css">
+  <link href="https://cdn.jsdelivr.net/gh/halfmoonui/halfmoon@1.0.4/css/halfmoon.min.css" rel="stylesheet">
+
+  <!-- Prevent embedding -->
+  <meta http-equiv="Content-Security-Policy" content="frame-ancestors 'self'; sandbox allow-scripts allow-same-origin;">
+  <script>
+    // Block iframe or sandbox embedding
+    if (window.top !== window.self) {
+      document.body.innerHTML = '<h2 style="color:red;text-align:center;margin-top:50px;">Embedding not allowed.</h2>';
+      throw new Error("Embedding blocked");
+    }
+  </script>
+
+  <script src="https://yonotv.pages.dev/love.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <script src="https://cdn.plyr.io/3.6.2/plyr.polyfilled.js"></script>
+  <script type='text/javascript' src='//orientsweptautopsy.com/f1/32/4d/f1324de9f268fbbdf75151f560354d2c.js'></script>
+</head>
+<body class="dark-mode with-custom-scrollbars with-custom-css-scrollbars">
+  <video id="player" controls preload="metadata" class="plyr"></video>
+
+  <script>
+    // Block sandbox environment if detected
+    try {
+      if (window.frameElement && window.frameElement.hasAttribute('sandbox')) {
+        document.body.innerHTML = '<h2 style="color:red;text-align:center;margin-top:50px;">Sandbox environment detected — playback blocked.</h2>';
+        throw new Error("Sandbox detected");
+      }
+    } catch(e){}
+
+    // Get the 'id' query parameter from the URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const streamId = urlParams.get('id') || 'sky';
+    const selectedStream = streamMap[streamId] || streamMap['sky'];
+
+    // Initialize Plyr
+    const player = new Plyr('#player', {
+      controls: ['play-large', 'play', 'progress', 'current-time', 'mute', 'volume', 'settings', 'pip', 'airplay', 'fullscreen'],
+      settings: ['quality', 'speed'],
+      autoplay: false
+    });
+
+    // Set up HLS.js
+    const video = document.querySelector('#player');
+    video.poster = selectedStream.poster;
+
+    if (Hls.isSupported()) {
+      const hls = new Hls();
+      hls.loadSource(selectedStream.url);
+      hls.attachMedia(video);
+      hls.on(Hls.Events.MANIFEST_PARSED, () => {
+        player.play();
+      });
+    } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+      video.src = selectedStream.url;
+      video.addEventListener('loadedmetadata', () => {
+        player.play();
+      });
+    }
+  </script>
+
+  <script src="https://nirutv.online/Scripts/clicks.js"></script>
+  <script disable-devtool-auto='true' 
+          src='https://cdn.jsdelivr.net/npm/disable-devtool' 
+          clear-log='true' 
+          disable-select='true' 
+          disable-copy='true' 
+          disable-cut='true' 
+          disable-paste='true'></script>
+</body>
+</html>
