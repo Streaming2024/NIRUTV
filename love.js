@@ -11,7 +11,7 @@ const streamMap = {
   
   
   "NP2": {
-    url: "https://hugh.cdn.rumble.cloud/live/tv3qa28c/slot-7/hryx-9x5u/chunklist.m3u8",
+    url: "https://rumble.com/live-hls/6y2bps/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
   "NP": {
