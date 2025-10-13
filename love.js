@@ -11,7 +11,7 @@ const streamMap = {
   
   
   "NP2": {
-    url: "https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match1/playlist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/u7gf26qm/slot-119/z3yd-6zbw/chunklist_DVR.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
   "NP": {
