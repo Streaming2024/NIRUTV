@@ -1,0 +1,53 @@
+{
+  "matchInfo": {
+    "teams": "Northern Ireland vs Germany",
+    "date": "14 Oct 2025",
+    "time": "12:15 AM IST 🇮🇳<br />10:45 PM IST 🇦🇪<br />09:45 PM IST 🇸🇦",
+    "stadium": "Clearer Twist National Stadium",
+    "league": "World Cup Qualification UEFA",
+    "round": "Round 04"
+  },
+  "events": [
+    {
+      "name": "📲🖥️ Smooth 1 - Nepal vs UAE",
+      "link": "https://nirutv.online/Player/pageads.html?src=https://yonotv.pages.dev/?id=NP"
+    },
+    {
+      "name": "📲🖥️ Smooth 2 - Nepal vs UAE (Best)",
+      "link": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
+    },
+    {
+      "name": "📲🖥️ Smooth 3 - Nepal vs UAE",
+      "link": "https://nirutv.online/VIP/ads.html"
+    },
+    {
+      "name": "📲🖥️ HD Link 1 - Nepal vs UAE",
+      "link": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=NP2"
+    },
+    {
+      "name": "📲🖥️ HD Link 2 - Nepal vs UAE",
+      "link": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc"
+    },
+    {
+      "name": "📲🖥️ HD Link 3 - Nepal vs UAE",
+      "link": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
+    },
+    {
+      "name": "📲🖥️ Full HD Link 1 - Nepal vs UAE",
+      "link": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=NP2"
+    },
+    {
+      "name": "📲🖥️ Full HD Link 2 - Nepal vs UAE",
+      "link": "https://nirutv.online/VIP/ads.html"
+    },
+    {
+      "name": "📲🖥️ Full HD Link 3 - Nepal vs UAE",
+      "link": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc"
+    }
+  ],
+  "styles": {
+    "livee": "display: flex; justify-content: space-between; align-items: center; text-decoration: none; color: inherit; margin: 10px 0; padding: 12px; border: 2px solid #3749b4; border-radius: 8px; cursor: pointer; transition: all 0.3s ease; background-color: #3749b4; color: white; font-weight: bold;",
+    "liveeHover": "box-shadow: 0 4px 12px rgba(55, 73, 180, 0.4); transform: translateY(-2px);",
+    "liveeName": "flex: 1; text-align: center; color: white; font-weight: bold; font-size: 14px;"
+  }
+}
