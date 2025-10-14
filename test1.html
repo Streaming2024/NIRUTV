@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YoNo TV Live</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #101010;
+      color: #fff;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    /* Header always visible */
+    header {
+      background-color: #000;
+      padding: 10px 0;
+      border-bottom: 2px solid #333;
+    }
+
+    header img {
+      width: 220px;
+      height: auto;
+    }
+
+    .match-banner {
+      display: block;
+      margin: 15px auto;
+      max-width: 90%;
+      border-radius: 10px;
+      box-shadow: 0 0 12px rgba(255,255,255,0.2);
+    }
+
+    .match-info {
+      margin-top: 15px;
+      text-align: center;
+    }
+
+    .match-info h2 {
+      color: #ffcc00;
+      margin-bottom: 10px;
+    }
+
+    .team-table {
+      width: 90%;
+      margin: 20px auto;
+      border-collapse: collapse;
+      border: 1px solid #333;
+      border-radius: 10px;
+      overflow: hidden;
+      background: #181818;
+    }
+
+    .team-table th {
+      background: #202020;
+      padding: 10px;
+      color: #ffcc00;
+    }
+
+    .team-table td {
+      padding: 8px;
+      border-bottom: 1px solid #333;
+    }
+
+    .links {
+      margin: 20px auto;
+      width: 90%;
+    }
+
+    .links a {
+      display: block;
+      background: #ffcc00;
+      color: #000;
+      font-weight: bold;
+      text-decoration: none;
+      padding: 10px;
+      border-radius: 6px;
+      margin: 6px 0;
+      transition: 0.3s;
+    }
+
+    .links a:hover {
+      background: #fff700;
+    }
+
+    .soon {
+      margin-top: 20px;
+      font-size: 18px;
+      color: #ccc;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Fixed Header -->
+  <header>
+    <img src="https://yosintv2.github.io/images/header-logo.png" alt="YoNo TV Live">
+  </header>
+
+  <!-- Match Banner from JSON -->
+  <img id="matchBanner" class="match-banner" src="" alt="Match Banner" style="display:none;">
+
+  <!-- Match Info -->
+  <div id="matchInfo" class="match-info"></div>
+
+  <!-- Team Lineups -->
+  <table id="teamTable" class="team-table" style="display:none;">
+    <thead>
+      <tr>
+        <th id="teamAName">Team A</th>
+        <th id="teamBName">Team B</th>
+      </tr>
+    </thead>
+    <tbody id="lineupBody"></tbody>
+  </table>
+
+  <!-- Watch Links -->
+  <div id="links" class="links"></div>
+
+  <div id="soon" class="soon" style="display:none;">Match links available soon</div>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get("id");
+
+    if (id) {
+      fetch(`${id}.json`)
+        .then(res => {
+          if (!res.ok) throw new Error("No JSON found");
+          return res.json();
+        })
+        .then(data => {
+          // Match Banner
+          const banner = document.getElementById("matchBanner");
+          if (data.banner) {
+            banner.src = data.banner;
+            banner.style.display = "block";
+          }
+
+          // Match Info
+          const info = `
+            <h2>${data.match_title || ""}</h2>
+            <p>${data.date || ""}</p>
+            <p>${data.time || ""}</p>
+            <p>${data.stadium || ""}</p>
+            <p>${data.league || ""}</p>
+            <p>${data.round || ""}</p>
+          `;
+          document.getElementById("matchInfo").innerHTML = info;
+
+          // Teams
+          const teamTable = document.getElementById("teamTable");
+          const lineupBody = document.getElementById("lineupBody");
+          if (data.teamA && data.teamB) {
+            document.getElementById("teamAName").textContent = data.teamA.name;
+            document.getElementById("teamBName").textContent = data.teamB.name;
+
+            const maxLength = Math.max(data.teamA.lineup.length, data.teamB.lineup.length);
+            for (let i = 0; i < maxLength; i++) {
+              const row = `<tr>
+                <td>${data.teamA.lineup[i] || ""}</td>
+                <td>${data.teamB.lineup[i] || ""}</td>
+              </tr>`;
+              lineupBody.innerHTML += row;
+            }
+            teamTable.style.display = "table";
+          }
+
+          // Links
+          const linksDiv = document.getElementById("links");
+          if (data.links && data.links.length > 0) {
+            data.links.forEach(link => {
+              const a = document.createElement("a");
+              a.href = link.link;
+              a.textContent = link.name;
+              linksDiv.appendChild(a);
+            });
+          } else {
+            document.getElementById("soon").style.display = "block";
+          }
+        })
+        .catch(() => {
+          document.getElementById("soon").style.display = "block";
+        });
+    } else {
+      document.getElementById("soon").style.display = "block";
+    }
+  </script>
+</body>
+</html>
