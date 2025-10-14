@@ -1,0 +1,53 @@
+{
+  "banner": "https://yosintv2.github.io/images/nepal-vs-vietnam.jpg",
+
+  "match_title": "Northern Ireland vs Germany",
+  "date": "14 Oct 2025",
+  "time": "12:15 AM IST 🇮🇳 / 10:45 PM 🇦🇪 / 09:45 PM 🇸🇦",
+  "stadium": "Clearer Twist National Stadium",
+  "league": "World Cup Qualification UEFA",
+  "round": "Round 04",
+
+  "teamA": {
+    "name": "Northern Ireland",
+    "lineup": [
+      "Bailey Peacock-Farrell (GK)",
+      "Jonny Evans (C)",
+      "George Saville",
+      "Gavin Whyte",
+      "Paddy McNair",
+      "Conor Bradley"
+    ]
+  },
+
+  "teamB": {
+    "name": "Germany",
+    "lineup": [
+      "Manuel Neuer (GK)",
+      "Joshua Kimmich",
+      "Antonio Rüdiger",
+      "Ilkay Gündogan",
+      "Kai Havertz",
+      "Leroy Sané"
+    ]
+  },
+
+  "links": [
+    {
+      "name": "Smooth 1 - TeamName",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/ads/letv.html?m=20260"
+    },
+    {
+      "name": "Smooth 2 - TeamName",
+      "link": "https://yosintv2.github.io/tv/ads.html"
+    },
+    {
+      "name": "Link 1 - TeamName",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/mid.html?mid=4149603"
+    },
+    {
+      "name": "Link 2 - TeamName",
+      "link": "https://yosintv2.github.io/ads/foot.html?id=https://yosintv2.github.io/tv/midd.html?mid=4149603"
+    }
+  ]
+}
