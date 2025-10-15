@@ -20,7 +20,7 @@ const streamMap = {
   },
   
   "NP4": {
-    url: "https://hugh.cdn.rumble.cloud/live/41ac4fe/slot-13/16zm-9x46/chunklist.m3u8",
+    url: "https://rumble-foxo.cdn.rumble.cloud/live/t34ch9px/slot-5/30ri-ostl_1080p/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   
   },
