@@ -20,23 +20,37 @@
   },
   "telecast_links": [
     {
-      "name": "Best Link 1: Nepal vs Oman", 
+      "name": "Best Link 1:Nepal vs Oman", 
       "url": "https://link1.com"
     },
     {
-      "name": "Backup Stream 1", 
+      "name": "Best Link 1:Nepal vs Oman", 
       "url": "https://link2.com"
     },
     {
-      "name": "Backup Stream 2", 
+      "name": "Best Link 1:Nepal vs Oman", 
       "url": "https://link3.com"
     },
     {
-      "name": "Mobile Stream", 
+      "name": "HD Link 1:Nepal vs Oman", 
+      "url": "https://link4.com"
+    },
+   {
+      "name": "HD Link 2:Nepal vs Oman", 
+      "url": "https://link4.com"
+    },
+
+    {
+      "name": "HD Link 3:Nepal vs Oman", 
+      "url": "https://link4.com"
+    },
+   {
+      "name": "Full HD Link:Nepal vs Oman", 
       "url": "https://link4.com"
     },
     {
-      "name": "TV Broadcast", "url": "https://link5.com"
+      "name": "Full HD:Nepal vs Oman ",
+      "url": "https://link5.com"
     }
   ]
 }
