@@ -7,28 +7,22 @@
     "league": "World Cup Qualifier UEFA",
     "round": "Round 04",
     "broadcaster": "ICC TV, Fancode",
-    "banner_image": "https://www.fancode.com/skillup-uploads/cms-media/02_Samoa-Vs-UAE_1760331078444.jpg",
-    "banner_link": "https://example.com",
-    "lineup_published": true,
-    "lineup_info": "Not Published Yet !!"
+    "banner_image": "https://example.com/banner.jpg",
+    "lineup_published": true
   },
-  "telecast_links": [
-    {"name": "Live Stream 1", "url": "https://link1.com"},
-    {"name": "Live Stream 2", "url": "https://link2.com"},
-    {"name": "Live Stream 3", "url": "https://link3.com"},
-    {"name": "HD Channel 1", "url": "https://link4.com"},
-    {"name": "HD Channel 2", "url": "https://link5.com"},
-    {"name": "Mobile Stream", "url": "https://link6.com"},
-    {"name": "TV Broadcast", "url": "https://link7.com"},
-    {"name": "Online Stream", "url": "https://link8.com"},
-    {"name": "Premium HD", "url": "https://link9.com"}
-  ],
   "team1": {
     "name": "Spain",
-    "lineup": ["Player 1", "Player 2", "Player 3"]
+    "lineup": "Rohit, Sompal, Dipendra, Sandip, Karan, Aasif, Gulsan, Bibek, Kushal, Abinash, Pratish"
   },
   "team2": {
-    "name": "Bulgaria",
-    "lineup": ["Player 1", "Player 2", "Player 3"]
-  }
+    "name": "Bulgaria", 
+    "lineup": "Ivan Dyulgerov, Ivan Turitsov, Valentin Antov, Hristiyan Petrov, Andrea Hristov, Dominik Yankov, Ivaylo Chochev, Kiril Despodov, Marin Petkov, Georgi Rusev, Martin Minchev"
+  },
+  "telecast_links": [
+    {"name": "Main Live Stream HD", "url": "https://link1.com"},
+    {"name": "Backup Stream 1", "url": "https://link2.com"},
+    {"name": "Backup Stream 2", "url": "https://link3.com"},
+    {"name": "Mobile Stream", "url": "https://link4.com"},
+    {"name": "TV Broadcast", "url": "https://link5.com"}
+  ]
 }
