@@ -19,10 +19,24 @@
     "lineup": "Ivan Dyulgerov, Ivan Turitsov, Valentin Antov, Hristiyan Petrov, Andrea Hristov, Dominik Yankov, Ivaylo Chochev, Kiril Despodov, Marin Petkov, Georgi Rusev, Martin Minchev"
   },
   "telecast_links": [
-    {"name": "Main Live Stream HD", "url": "https://link1.com"},
-    {"name": "Backup Stream 1", "url": "https://link2.com"},
-    {"name": "Backup Stream 2", "url": "https://link3.com"},
-    {"name": "Mobile Stream", "url": "https://link4.com"},
-    {"name": "TV Broadcast", "url": "https://link5.com"}
+    {
+      "name": "Best Link 1: Nepal vs Oman", 
+      "url": "https://link1.com"
+    },
+    {
+      "name": "Backup Stream 1", 
+      "url": "https://link2.com"
+    },
+    {
+      "name": "Backup Stream 2", 
+      "url": "https://link3.com"
+    },
+    {
+      "name": "Mobile Stream", 
+      "url": "https://link4.com"
+    },
+    {
+      "name": "TV Broadcast", "url": "https://link5.com"
+    }
   ]
 }
