@@ -29,7 +29,7 @@ const streamMap = {
     poster: "https://imgeng.jagran.com/images/2025/09/30/article/image/complete-list-of-ICC-women-cricket-world-cup-winners--1759237177116.webp"
   },
   "WOMENS": {
-    url: "https://hugh.cdn.rumble.cloud/live/1n1ugl24/slot-35/qnbn-q1qm/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/t5qc33px/slot-131/k3xj-agbx/chunklist.m3u8",
     poster: "https://styxsports.b-cdn.net/styxsports-public/matches/1759219336927-448368236.webp"
   },
 
