@@ -3,10 +3,10 @@
     "title": "Nepal vs Oman",
     "date": "15 Oct 2025",
     "time": "08:45 PM NST",
-    "stadium": "Estadio Municipal Jose Zorrilla",
-    "league": "World Cup Qualifier UEFA",
-    "round": "Round 04",
-    "broadcaster": "ICC TV, Fancode",
+    "stadium": "Al Amerat Cricket Ground",
+    "league": "T20 WC Asia Qualifier",
+      "round": "Super Six",
+    "broadcaster": "ICC TV, Fancode ,KantipurTV",
     "banner_image": "https://www.fancode.com/skillup-uploads/cms-media/03_Oman-Vs-Nepal.jpg",
     "lineup_published": false
   },
@@ -21,36 +21,36 @@
   "telecast_links": [
     {
       "name": "Best Link 1:Nepal vs Oman", 
-      "url": "https://link1.com"
+      "url": "https://nirutv.online/Player/pageads.html?src=https://yonotv.pages.dev/?id=NP"
     },
     {
       "name": "Best Link 1:Nepal vs Oman", 
-      "url": "https://link2.com"
+      "url": "https://nirutv.online/VIP/ads.html"
     },
     {
       "name": "Best Link 1:Nepal vs Oman", 
-      "url": "https://link3.com"
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
     },
     {
       "name": "HD Link 1:Nepal vs Oman", 
-      "url": "https://link4.com"
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=NP2"
     },
    {
       "name": "HD Link 2:Nepal vs Oman", 
-      "url": "https://link4.com"
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc"
     },
 
     {
       "name": "HD Link 3:Nepal vs Oman", 
-      "url": "https://link4.com"
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc"
     },
    {
-      "name": "Full HD Link:Nepal vs Oman", 
-      "url": "https://link4.com"
+      "name": "Full HD 1:Nepal vs Oman", 
+      "url": "https://nirutv.online/VIP/ads.html"
     },
     {
-      "name": "Full HD:Nepal vs Oman ",
-      "url": "https://link5.com"
+      "name": "Full HD 2:Nepal vs Oman ",
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
     }
   ]
 }
