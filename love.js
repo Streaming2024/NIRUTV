@@ -10,16 +10,16 @@ const streamMap = {
   },
   
   
-  "NP1": {
+  "NP": {
     url: "https://hugh.cdn.rumble.cloud/live/t34ch9px/slot-5/30ri-ostl/chunklist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
-  "NP": {
+  "NP5": {
     url: "https://rumble-foxo.cdn.rumble.cloud/live/1t34ch9px/slot-5/30ri-ostl_1080p/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
   
-  "NP22": {
+  "NP2": {
     url: "https://rumble-foxo.cdn.rumble.cloud/live/t34ch9px/slot-5/30ri-ostl_1080p/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   
