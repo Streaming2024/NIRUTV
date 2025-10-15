@@ -9,7 +9,7 @@
     "broadcaster": "ICC TV, Fancode",
     "banner_image": "https://www.fancode.com/skillup-uploads/cms-media/02_Samoa-Vs-UAE_1760331078444.jpg",
     "banner_link": "https://example.com",
-    "lineup_published": false,
+    "lineup_published": true,
     "lineup_info": "Not Published Yet !!"
   },
   "telecast_links": [
