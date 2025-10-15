@@ -1,0 +1,34 @@
+{
+  "match": {
+    "title": "Spain vs Bulgaria",
+    "date": "15 Oct 2025",
+    "time": "08:45 PM NST",
+    "stadium": "Estadio Municipal Jose Zorrilla",
+    "league": "World Cup Qualifier UEFA",
+    "round": "Round 04",
+    "broadcaster": "ICC TV, Fancode",
+    "banner_image": "https://www.fancode.com/skillup-uploads/cms-media/02_Samoa-Vs-UAE_1760331078444.jpg",
+    "banner_link": "https://example.com",
+    "lineup_published": false,
+    "lineup_info": "Not Published Yet !!"
+  },
+  "telecast_links": [
+    {"name": "Link 1", "url": "https://link1.com"},
+    {"name": "Link 2", "url": "https://link2.com"},
+    {"name": "Link 3", "url": "https://link3.com"},
+    {"name": "Link 4", "url": "https://link4.com"},
+    {"name": "Link 5", "url": "https://link5.com"},
+    {"name": "Link 6", "url": "https://link6.com"},
+    {"name": "Link 7", "url": "https://link7.com"},
+    {"name": "Link 8", "url": "https://link8.com"},
+    {"name": "Link 9", "url": "https://link9.com"}
+  ],
+  "team1": {
+    "name": "Spain",
+    "lineup": ["Player 1", "Player 2", "Player 3"]
+  },
+  "team2": {
+    "name": "Bulgaria", 
+    "lineup": ["Player 1", "Player 2", "Player 3"]
+  }
+}
