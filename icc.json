@@ -1,0 +1,61 @@
+{
+  "match": {
+    "title": "Japan vs UAE",
+    "date": "15 Oct 2025",
+    "time": "08:45 PM NST",
+    "stadium": "Al Amerat Cricket Ground",
+    "league": "T20 WC Asia Qualifier",
+      "round": "Super Six",
+    "broadcaster": "ICC TV, Fancode ,KantipurTV",
+    "banner_image": "https://www.fancode.com/skillup-uploads/cms-media/01_UAE-Vs-Japan.jpg",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "UAE",
+    "lineup": "Rohit, Sompal, Dipendra, Sandip, Karan, Aasif, Gulsan, Bibek, Kushal, Abinash, Pratish"
+  },
+  "team2": {
+    "name": "japan", 
+    "lineup": "Ivan Dyulgerov, Ivan Turitsov, Valentin Antov, Hristiyan Petrov, Andrea Hristov, Dominik Yankov, Ivaylo Chochev, Kiril Despodov, Marin Petkov, Georgi Rusev, Martin Minchev"
+  },
+  "telecast_links": [
+    {
+      "name": "Best Link 1:Japan vs UAE", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=NP"
+    },
+    {
+      "name": "Best Link 2:Japan vs UAE", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc"
+    },
+    {
+      "name": "Best Link 3:Japan vs UAE", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+    {
+      "name": "HD Link 1:Japan vs UAE", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
+    },
+   {
+      "name": "HD Link 2:Japan vs UAE", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=NP2"
+    },
+
+    {
+      "name": "HD Link 3:Japan vs UAE", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+   {
+      "name": "Full HD 1:Japan vs UAE", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://kasin-tv.com/hi/play.php?id=137190"
+    },
+{
+      "name": "Full HD 1:Japan vs UAE", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+    
+    {
+      "name": "Full HD 2:Japan vs UAE ",
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=NP2"
+    }
+  ]
+}
