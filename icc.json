@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "Japan vs UAE",
+    "title": "Qatar vs Samoa",
     "date": "16 Oct 2025",
-    "time": "04:15 PM NST",
+    "time": "08:45 PM NST",
     "stadium": "Al Amerat Cricket Ground",
     "league": "T20 WC Asia Qualifier",
       "round": "Super Six",
     "broadcaster": "ICC TV, Fancode ,KantipurTV",
-    "banner_image": "https://www.fancode.com/skillup-uploads/cms-media/01_UAE-Vs-Japan.jpg",
+    "banner_image": "https://www.fancode.com/skillup-uploads/cms-media/02_Qatar-Vs-Samoa_1760331295159.jpg",
     "lineup_published": false
   },
   "team1": {
@@ -20,41 +20,41 @@
   },
   "telecast_links": [
     {
-      "name": "Best Link 1:Japan vs UAE", 
+      "name": "Best Link 1:Qatar vs Samoa", 
       "url": "https://nirutv.online/Player/pageads.html?src=https://yonotv.pages.dev/?id=NP"
     },
     {
-      "name": "Best Link 2:Japan vs UAE", 
+      "name": "Best Link 2:Qatar vs Samoa", 
       "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc"
     },
     {
-      "name": "Best Link 3:Japan vs UAE", 
+      "name": "Best Link 3:Qatar vs Samoa", 
       "url": "https://nirutv.online/VIP/ads.html"
     },
     {
-      "name": "HD Link 1:Japan vs UAE", 
+      "name": "HD Link 1:Qatar vs Samoa", 
       "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
     },
    {
-      "name": "HD Link 2:Japan vs UAE", 
+      "name": "HD Link 2:Qatar vs Samoa", 
       "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=NP2"
     },
 
     {
-      "name": "HD Link 3:Japan vs UAE", 
+      "name": "HD Link 3:Qatar vs Samoa", 
       "url": "https://nirutv.online/VIP/ads.html"
     },
    {
-      "name": "Full HD 1:Japan vs UAE", 
+      "name": "Full HD 1:Qatar vs Samoa", 
       "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
     },
 {
-      "name": "Full HD 1:Japan vs UAE", 
+      "name": "Full HD 1:Qatar vs Samoa", 
       "url": "https://nirutv.online/VIP/ads.html"
     },
     
     {
-      "name": "Full HD 2:Japan vs UAE ",
+      "name": "Full HD 2:Qatar vs Samoa ",
       "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=NP2"
     }
   ]
