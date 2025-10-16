@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "Nepal vs Oman",
-    "date": "15 Oct 2025",
-    "time": "08:45 PM NST",
+    "title": "Nepal vs Samoa ",
+    "date": "17 Oct 2025",
+    "time": "04:15 PM NST",
     "stadium": "Al Amerat Cricket Ground",
     "league": "T20 WC Asia Qualifier",
       "round": "Super Six",
     "broadcaster": "ICC TV, Fancode ,KantipurTV",
-    "banner_image": "https://www.fancode.com/skillup-uploads/cms-media/03_Oman-Vs-Nepal.jpg",
+    "banner_image": "https://www.fancode.com/skillup-uploads/cms-media/02_Samoa-Vs-Nepal_1760331349588.jpg",
     "lineup_published": false
   },
   "team1": {
@@ -15,46 +15,46 @@
     "lineup": "Rohit, Sompal, Dipendra, Sandip, Karan, Aasif, Gulsan, Bibek, Kushal, Abinash, Pratish"
   },
   "team2": {
-    "name": "Oman", 
+    "name": "Samoa ", 
     "lineup": "Ivan Dyulgerov, Ivan Turitsov, Valentin Antov, Hristiyan Petrov, Andrea Hristov, Dominik Yankov, Ivaylo Chochev, Kiril Despodov, Marin Petkov, Georgi Rusev, Martin Minchev"
   },
   "telecast_links": [
     {
-      "name": "Best Link 1:Nepal vs Oman", 
+      "name": "Best Link 1:Nepal vs Samoa ", 
       "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=NP"
     },
     {
-      "name": "Best Link 2:Nepal vs Oman", 
+      "name": "Best Link 2:Nepal vs Samoa ", 
       "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc2"
     },
     {
-      "name": "Best Link 3:Nepal vs Oman", 
+      "name": "Best Link 3:Nepal vs Samoa ", 
       "url": "https://nirutv.online/VIP/ads.html"
     },
     {
-      "name": "HD Link 1:Nepal vs Oman", 
-      "url": "https://nirutv.online/Player/page2ads.html?src=https://embedsports.top/embed/charlie/oman-vs-nepal-1629464532/1"
+      "name": "HD Link 1:Nepal vs Samoa ", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=NP"
     },
    {
-      "name": "HD Link 2:Nepal vs Oman", 
+      "name": "HD Link 2:Nepal vs Samoa ", 
       "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
     },
 
     {
-      "name": "HD Link 3:Nepal vs Oman", 
+      "name": "HD Link 3:Nepal vs Samoa ", 
       "url": "https://nirutv.online/VIP/ads.html"
     },
    {
-      "name": "Full HD 1:Nepal vs Oman", 
+      "name": "Full HD 1:Nepal vs Samoa ", 
       "url": "https://nirutv.online/Player/page2ads.html?src=https://kasin-tv.com/hi/play.php?id=137190"
     },
 {
-      "name": "Full HD 1:Nepal vs Oman", 
+      "name": "Full HD 1:Nepal vs Samoa ", 
       "url": "https://nirutv.online/VIP/ads.html"
     },
     
     {
-      "name": "Full HD 2:Nepal vs Oman ",
+      "name": "Full HD 2:Nepal vs Samoa  ",
       "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=NP2"
     }
   ]
