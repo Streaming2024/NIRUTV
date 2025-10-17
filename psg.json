@@ -21,7 +21,7 @@
   "telecast_links": [
     {
       "name": "Best Link 1:PSG vs Strasbourg", 
-      "url": "https://nirutv.online/Player/pageads.html?src=https://yonotv.pages.dev/links?id=icc"
+      "url": "https://nirutv.online/Player/pageads.html?src=https://nirutv.online/Player/soco?id=400722"
     },
     {
       "name": "Best Link 2:PSG vs Strasbourg", 
@@ -29,33 +29,21 @@
     },
     {
       "name": "Best Link 3:PSG vs Strasbourg", 
-      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc3"
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://justembeds.cfd/embed/afdb73c451239369681c5e34207bf17a"
     },
     {
       "name": "HD Link 1:PSG vs Strasbourg", 
-      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc2"
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://nirutv.online/Player/soco?id=291277"
     },
    {
       "name": "HD Link 2:PSG vs Strasbourg", 
-      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc"
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://nirutv.online/Player/soco?id=387694"
     },
 
     {
       "name": "HD Link 3:PSG vs Strasbourg", 
       "url": "https://nirutv.online/VIP/ads.html"
-    },
-   {
-      "name": "Full HD 1:PSG vs Strasbourg", 
-      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
-    },
-{
-      "name": "Full HD 1:PSG vs Strasbourg", 
-      "url": "https://nirutv.online/VIP/ads.html"
-    },
     
-    {
-      "name": "Full HD 2:PSG vs Strasbourg ",
-      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc3"
     }
   ]
 }
