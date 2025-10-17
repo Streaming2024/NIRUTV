@@ -1,0 +1,61 @@
+{
+  "match": {
+    "title": "Women's World Cup 2025",
+    "date": "18 Oct 2025",
+    "time": "03:15 pm NST",
+    "stadium": "R. Premadasa Stadium",
+    "league": "T20 WC Asia Qualifier",
+      "round": "Super Six",
+    "broadcaster": "ICC TV, Fancode ,KantipurTV",
+    "banner_image": "https://www.fancode.com/skillup-uploads/cms-media/01_Japan-Vs-Oman_1760331349632.jpg",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "UAE",
+    "lineup": "Rohit, Sompal, Dipendra, Sandip, Karan, Aasif, Gulsan, Bibek, Kushal, Abinash, Pratish"
+  },
+  "team2": {
+    "name": "japan", 
+    "lineup": "Ivan Dyulgerov, Ivan Turitsov, Valentin Antov, Hristiyan Petrov, Andrea Hristov, Dominik Yankov, Ivaylo Chochev, Kiril Despodov, Marin Petkov, Georgi Rusev, Martin Minchev"
+  },
+  "telecast_links": [
+    {
+      "name": "Best Link 1:Women's World Cup 2025", 
+      "url": "https://nirutv.online/Player/pageads.html?src=https://yonotv.pages.dev/?id=WC"
+    },
+    {
+      "name": "Best Link 2:Women's World Cup 2025", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+    {
+      "name": "Best Link 3:Women's World Cup 2025", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=wc"
+    },
+    {
+      "name": "HD Link 1:Women's World Cup 2025", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc2"
+    },
+   {
+      "name": "HD Link 2:Women's World Cup 2025", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc"
+    },
+
+    {
+      "name": "HD Link 3:Women's World Cup 2025", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+   {
+      "name": "Full HD 1:Women's World Cup 2025", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
+    },
+{
+      "name": "Full HD 1:Women's World Cup 2025", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+    
+    {
+      "name": "Full HD 2:Women's World Cup 2025 ",
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc3"
+    }
+  ]
+}
