@@ -11,11 +11,11 @@ const streamMap = {
   
   
   "NP": {
-    url: "https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-69/rwy1-uhzs/chunklist.m3u8",
+    url: "https://hugh.cdn.rumble.cloud/live/d5a20b4d/slot-93/18r9-y3ys/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
   "NP2": {
-    url: "https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-69/rwy1-uhzs/chunklist.m3u8",
+    url: "https://rumble-foxo.cdn.rumble.cloud/live/d5a20b4d/slot-93/18r9-y3ys/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
   
