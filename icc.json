@@ -1,13 +1,13 @@
 {
   "match": {
-    "title": "Qatar vs Samoa",
-    "date": "16 Oct 2025",
-    "time": "08:45 PM NST",
+    "title": "Japan vs Oman",
+    "date": "17 Oct 2025",
+    "time": "11:15 AM NST",
     "stadium": "Al Amerat Cricket Ground",
     "league": "T20 WC Asia Qualifier",
       "round": "Super Six",
     "broadcaster": "ICC TV, Fancode ,KantipurTV",
-    "banner_image": "https://www.fancode.com/skillup-uploads/cms-media/02_Qatar-Vs-Samoa_1760331295159.jpg",
+    "banner_image": "https://www.fancode.com/skillup-uploads/cms-media/01_Japan-Vs-Oman_1760331349632.jpg",
     "lineup_published": false
   },
   "team1": {
@@ -20,41 +20,41 @@
   },
   "telecast_links": [
     {
-      "name": "Best Link 1:Qatar vs Samoa", 
+      "name": "Best Link 1:Japan vs Oman", 
       "url": "https://nirutv.online/Player/pageads.html?src=https://yonotv.pages.dev/links?id=icc"
     },
     {
-      "name": "Best Link 2:Qatar vs Samoa", 
+      "name": "Best Link 2:Japan vs Oman", 
       "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
     },
     {
-      "name": "Best Link 3:Qatar vs Samoa", 
+      "name": "Best Link 3:Japan vs Oman", 
       "url": "https://nirutv.online/VIP/ads.html"
     },
     {
-      "name": "HD Link 1:Qatar vs Samoa", 
-      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
+      "name": "HD Link 1:Japan vs Oman", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc2"
     },
    {
-      "name": "HD Link 2:Qatar vs Samoa", 
+      "name": "HD Link 2:Japan vs Oman", 
       "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=NP2"
     },
 
     {
-      "name": "HD Link 3:Qatar vs Samoa", 
+      "name": "HD Link 3:Japan vs Oman", 
       "url": "https://nirutv.online/VIP/ads.html"
     },
    {
-      "name": "Full HD 1:Qatar vs Samoa", 
+      "name": "Full HD 1:Japan vs Oman", 
       "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
     },
 {
-      "name": "Full HD 1:Qatar vs Samoa", 
+      "name": "Full HD 1:Japan vs Oman", 
       "url": "https://nirutv.online/VIP/ads.html"
     },
     
     {
-      "name": "Full HD 2:Qatar vs Samoa ",
+      "name": "Full HD 2:Japan vs Oman ",
       "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=NP2"
     }
   ]
