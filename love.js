@@ -14,13 +14,13 @@ const streamMap = {
     url: "https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-69/rwy1-uhzs/chunklist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
-  "NP1": {
+  "NP2": {
     url: "https://hugh.cdn.rumble.cloud/live/kd32s8ur/slot-69/rwy1-uhzs/chunklist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   },
   
-  "NP2": {
-    url: "https://rumble-foxo.cdn.rumble.cloud/live/kd32s8ur/slot-69/rwy1-uhzs_1080p/playlist.m3u8",
+  "NP3": {
+    url: "https://hugh.cdn.rumble.cloud/live/gi29le7p/slot-61/jcac-ayna/playlist.m3u8",
     poster: "https://nirutv.online/logo/image.png"
   
   },
