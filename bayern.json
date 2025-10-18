@@ -1,0 +1,49 @@
+{
+  "match": {
+    "title": "Bayern vs Dortmund",
+    "date": "18 Oct 2025",
+    "time": "10:15 PM NST",
+    "stadium": "Allianz Arena",
+    "league": "Bundesliga",
+    "round": "Round 8",
+    "broadcaster": "beIN Sports,Sky Go UK,NBC",
+    "banner_image": "https://cdn.ratingbet.com/ratingbet/20251016/f7b82357eb5a58337380173e458da78aa19b52d8ee347873eea9ada8a311c65c-800-500.webp",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "UAE",
+    "lineup": "Rohit, Sompal, Dipendra, Sandip, Karan, Aasif, Gulsan, Bibek, Kushal, Abinash, Pratish"
+  },
+  "team2": {
+    "name": "japan", 
+    "lineup": "Ivan Dyulgerov, Ivan Turitsov, Valentin Antov, Hristiyan Petrov, Andrea Hristov, Dominik Yankov, Ivaylo Chochev, Kiril Despodov, Marin Petkov, Georgi Rusev, Martin Minchev"
+  },
+  "telecast_links": [
+    {
+      "name": "Best Link 1:Bayern vs Dortmund", 
+      "url": "https://nirutv.online/Player/pageads.html?src=https://streamcenter.pro/embed/ch8.php"
+    },
+    {
+      "name": "Best Link 2:Bayern vs Dortmund", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+    {
+      "name": "Best Link 3:Bayern vs Dortmund", 
+      "url": "https://nirutv.online/Player/pageads.html?src=https://nirutv.online/Player/soco?id=484845"
+    },
+    {
+      "name": "HD Link 1:Bayern vs Dortmund", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://nirutv.online/Player/soco?id=494201"
+    },
+   {
+      "name": "HD Link 2:Bayern vs Dortmund", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://nirutv.online/Player/soco?id=494201"
+    },
+
+    {
+      "name": "HD Link 3:Bayern vs Dortmund", 
+      "url": "https://nirutv.online/VIP/ads.html"
+   
+    }
+  ]
+}
