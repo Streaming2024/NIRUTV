@@ -1,0 +1,61 @@
+{
+  "match": {
+    "title": "Bangladesh vs West Indies",
+    "date": "18 Oct 2025",
+    "time": "12:15 PM NST",
+    "stadium": "Hagley Oval",
+    "league": "ODI Series",
+    "round": "First match",
+    "broadcaster": "ICC TV, Fancode ,WillowTV",
+    "banner_image": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh_2025_Old_match-card.jpg",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "UAE",
+    "lineup": "Rohit, Sompal, Dipendra, Sandip, Karan, Aasif, Gulsan, Bibek, Kushal, Abinash, Pratish"
+  },
+  "team2": {
+    "name": "japan", 
+    "lineup": "Ivan Dyulgerov, Ivan Turitsov, Valentin Antov, Hristiyan Petrov, Andrea Hristov, Dominik Yankov, Ivaylo Chochev, Kiril Despodov, Marin Petkov, Georgi Rusev, Martin Minchev"
+  },
+  "telecast_links": [
+    {
+      "name": "Best Link 1:Bangladesh vs West Indies", 
+      "url": "https://nirutv.online/Player/pageads.html?src=https://nirutv.online/fc"
+    },
+    {
+      "name": "Best Link 2:Bangladesh vs West Indies", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+    {
+      "name": "Best Link 3:Bangladesh vs West Indies", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://kasin-tv.com/hi/play.php?id=137700"
+    },
+    {
+      "name": "HD Link 1:Bangladesh vs West Indies", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc2"
+    },
+   {
+      "name": "HD Link 2:Bangladesh vs West Indies", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=eng3"
+    },
+
+    {
+      "name": "HD Link 3:Bangladesh vs West Indies", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+   {
+      "name": "Full HD 1:Bangladesh vs West Indies", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
+    },
+{
+      "name": "Full HD 1:Bangladesh vs West Indies", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+    
+    {
+      "name": "Full HD 2:Bangladesh vs West Indies ",
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc3"
+    }
+  ]
+}
