@@ -1,0 +1,49 @@
+{
+  "match": {
+    "title": "Barcelona vs Girona",
+    "date": "18 Oct 2025",
+    "time": "08:00 PM NST",
+    "stadium": "Estadi Olímpic Lluís",
+    "league": "La Liga",
+    "round": "Round 9",
+    "broadcaster": "beIN Sports,Sky Go UK,NBC",
+    "banner_image": "https://blog-ng.msport.com/images/2021/Barcelona.jpg",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "UAE",
+    "lineup": "Rohit, Sompal, Dipendra, Sandip, Karan, Aasif, Gulsan, Bibek, Kushal, Abinash, Pratish"
+  },
+  "team2": {
+    "name": "japan", 
+    "lineup": "Ivan Dyulgerov, Ivan Turitsov, Valentin Antov, Hristiyan Petrov, Andrea Hristov, Dominik Yankov, Ivaylo Chochev, Kiril Despodov, Marin Petkov, Georgi Rusev, Martin Minchev"
+  },
+  "telecast_links": [
+    {
+      "name": "Best Link 1:Barcelona vs Girona", 
+      "url": "https://nirutv.online/Player/pageads.html?src=https://streamcenter.pro/embed/ch6.php"
+    },
+    {
+      "name": "Best Link 2:Barcelona vs Girona", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+    {
+      "name": "Best Link 3:Barcelona vs Girona", 
+      "url": "https://nirutv.online/Player/pageads.html?src=https://nirutv.online/Player/soco?id=327159"
+    },
+    {
+      "name": "HD Link 1:Barcelona vs Girona", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://nirutv.online/Player/soco?id=414317"
+    },
+   {
+      "name": "HD Link 2:Barcelona vs Girona", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://nirutv.online/Player/soco?id=380460"
+    },
+
+    {
+      "name": "HD Link 3:Barcelona vs Girona", 
+      "url": "https://nirutv.online/VIP/ads.html"
+   
+    }
+  ]
+}
