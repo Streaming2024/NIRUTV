@@ -1,0 +1,61 @@
+{
+  "match": {
+    "title": "India vs Australia",
+    "date": "18 Oct 2025",
+    "time": "09:15 AM NST",
+    "stadium": "Optus Stadium",
+    "league": "ODI Series",
+    "round": "First match",
+    "broadcaster": "ICC TV, TNT ,WillowTV",
+    "banner_image": "https://img.cricketnmore.com/uploads/2025/10/australia-vs-india-1st-odi-who-will-win-today-aus-vs-ind-match-lg.jpg",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "UAE",
+    "lineup": "Rohit, Sompal, Dipendra, Sandip, Karan, Aasif, Gulsan, Bibek, Kushal, Abinash, Pratish"
+  },
+  "team2": {
+    "name": "japan", 
+    "lineup": "Ivan Dyulgerov, Ivan Turitsov, Valentin Antov, Hristiyan Petrov, Andrea Hristov, Dominik Yankov, Ivaylo Chochev, Kiril Despodov, Marin Petkov, Georgi Rusev, Martin Minchev"
+  },
+  "telecast_links": [
+    {
+      "name": "Best Link 1:India vs Australia", 
+      "url": "https://nirutv.online/Player/pageads.html?src=https://nirutv.online/TNT1"
+    },
+    {
+      "name": "Best Link 2:India vs Australia", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+    {
+      "name": "Best Link 3:India vs Australia", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://nirutv.online/TNT1"
+    },
+    {
+      "name": "HD Link 1:India vs Australia", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=india"
+    },
+   {
+      "name": "HD Link 2:India vs Australia", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=india"
+    },
+
+    {
+      "name": "HD Link 3:India vs Australia", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+   {
+      "name": "Full HD 1:India vs Australia", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/?id=MAX"
+    },
+{
+      "name": "Full HD 1:India vs Australia", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+    
+    {
+      "name": "Full HD 2:India vs Australia ",
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://yonotv.pages.dev/links?id=icc3"
+    }
+  ]
+}
