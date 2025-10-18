@@ -1,0 +1,49 @@
+{
+  "match": {
+    "title": "Arsenal vs Fulham",
+    "date": "18 Oct 2025",
+    "time": "10:15 PM NST",
+    "stadium": "Craven Cottage",
+    "league": "Premire Leagues",
+    "round": "Round 8",
+    "broadcaster": "beIN Sports,Sky Go UK,NBC",
+    "banner_image": "https://i2-prod.football.london/incoming/article27597931.ece/ALTERNATES/s1200/0_AFC-4.jpg",
+    "lineup_published": false
+  },
+  "team1": {
+    "name": "UAE",
+    "lineup": "Rohit, Sompal, Dipendra, Sandip, Karan, Aasif, Gulsan, Bibek, Kushal, Abinash, Pratish"
+  },
+  "team2": {
+    "name": "japan", 
+    "lineup": "Ivan Dyulgerov, Ivan Turitsov, Valentin Antov, Hristiyan Petrov, Andrea Hristov, Dominik Yankov, Ivaylo Chochev, Kiril Despodov, Marin Petkov, Georgi Rusev, Martin Minchev"
+  },
+  "telecast_links": [
+    {
+      "name": "Best Link 1:Arsenal vs Fulham", 
+      "url": "https://nirutv.online/Player/pageads.html?src=https://streamcenter.pro/embed/ch1.php"
+    },
+    {
+      "name": "Best Link 2:Arsenal vs Fulham", 
+      "url": "https://nirutv.online/VIP/ads.html"
+    },
+    {
+      "name": "Best Link 3:Arsenal vs Fulham", 
+      "url": "https://nirutv.online/Player/pageads.html?src=https://nirutv.online/Player/socohd?id=9912108"
+    },
+    {
+      "name": "HD Link 1:Arsenal vs Fulham", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://nirutv.online/Player/socohd?id=9912060"
+    },
+   {
+      "name": "HD Link 2:Arsenal vs Fulham", 
+      "url": "https://nirutv.online/Player/page2ads.html?src=https://nirutv.online/Player/socohd?id=9912108"
+    },
+
+    {
+      "name": "HD Link 3:Arsenal vs Fulham", 
+      "url": "https://nirutv.online/VIP/ads.html"
+   
+    }
+  ]
+}
